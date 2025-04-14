@@ -3,7 +3,7 @@ class Cappuccino extends CoffeeTemplate {
 
     @Override
     protected void grindBeans() {
-        System.out.println("Grinding coffee in a medium grind");
+        System.out.println("Grinding coffee in a medium grind here i made a change");
     }
 
     @Override
